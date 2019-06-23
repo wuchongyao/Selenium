@@ -1,0 +1,17 @@
+{
+  "id": "ee4c5eb8-19e8-4710-adda-111236a8759b",
+  "version": "2.0",
+  "name": "test-0623",
+  "url": "https://www.baidu.com/",
+  "tests": [],
+  "suites": [{
+    "id": "b7477243-94a4-4936-b31d-8cb59368752e",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["https://www.baidu.com/"],
+  "plugins": []
+}
